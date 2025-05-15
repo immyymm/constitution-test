@@ -1,0 +1,1 @@
+<web-view src="https://yourdomain.com/results/{{type}}_表格化结果页面.html" />

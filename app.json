@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/questionnaire/questionnaire",
+    "pages/result/result"
+  ],
+  "window": {
+    "navigationBarTitleText": "体质测试"
+  },
+  "cloud": true
+}

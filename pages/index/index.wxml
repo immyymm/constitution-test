@@ -1,0 +1,1 @@
+<view class="container"><image style="width: NaNrpx; display: inline-block; box-sizing: border-box" src="/assets/logo.png" mode="widthFix"/><button bindtap="startTest">开始测试</button></view>
